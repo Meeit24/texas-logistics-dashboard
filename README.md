@@ -6,7 +6,7 @@ A powerful, data-driven dashboard designed to optimize logistics operations acro
 
 ## 🚀 Key Highlights
 
-- ✨ Tracked 1,130+ monthly orders across multiple hubs
-- 🏢 Managed operations over 6 hubs
-- 👨‍✈️ Monitored performance of 55 drivers
-- 🚛 Analyzed utilization of 45 vehicles
+- Tracked 1,130+ monthly orders across multiple hubs
+- Managed operations over 6 hubs
+- Monitored performance of 55 drivers
+- Analyzed utilization of 45 vehicles
